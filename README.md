@@ -1,5 +1,7 @@
 # ElemwiseRetro
-Implementation of ElemwiseRetro developed by Prof. Yousung Jung group at Seoul National University (contact: yousung@gmail.com)
+Implementation of ElemwiseRetro developed by Prof. Yousung Jung group at Seoul National University
+
+(contact: yousung@gmail.com)
 
 ( Predicting Synthesis Recipes of Inorganic Crystal Materials using Elementwise Template Formulation )
 
