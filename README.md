@@ -5,6 +5,8 @@ Implementation of ElemwiseRetro developed by Prof. Yousung Jung group at Seoul N
 
 ( Predicting Synthesis Recipes of Inorganic Crystal Materials using Elementwise Template Formulation )
 
+DOI : 10.1039/D3SC03538G
+
 
 # Developer
 Seongmin Kim (seongminkim0215@gmail.com)
